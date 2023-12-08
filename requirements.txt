@@ -1,0 +1,15 @@
+langchain==0.0.208
+deeplake==3.6.5
+openai==0.27.8
+tiktoken==0.4.0
+protobuf~=3.19.0
+torch
+huggingface
+sentence_transformers
+InstructorEmbedding
+google-generativeai
+google-cloud
+google-cloud-vision
+google-api-core
+google-api-python-client
+python-dotenv
